@@ -1,0 +1,45 @@
+{
+    "token": "MTI0OTE0NTA2Mzk2ODA4MDA2NA.G2wNqu.x-b7hUV3fNrkJfO8QqGCM8jIPMcVwCt9uI35i0",
+    "embedcolor" : "2f3136",
+    "relatoriolog" : "1249867025086681190",
+    "batepontolog" : "1249872399864692837",
+    "ausenciaLog": "1249867135598202960",
+    "siglaguarnição" : "PCERJ",
+
+    "AUSENCIA":{
+        "cargo_verificador":"",
+        "cargo_ausencia":""
+    },
+
+    "TICKET":{
+        "cargo": "1249869229713526806",
+        "ticketlogs": "1249867306880995443",
+        "categoria": ""
+    },
+
+
+    "ADVERTENCIAS": {
+        "advertanciacanal":"",
+        "exonerascanal": "",
+        "cargoadv_verbal":"",
+        "cargoadv_1":"",
+        "cargoadv_2":""
+    },
+    "HIERARQUIA": [
+       "1248073011857326088 ",
+       "1248073011857326087",
+       "1248073011857326086",
+       "1248073011857326085",
+       "1248073011857326084",
+       "1248073011857326083",
+       "1248073011844612106",
+       "1248073011844612105",
+       "1248073011832291390",
+       "1248073011832291391",
+       "1248073011832291392",
+       "1248073011832291393"
+    ]
+
+}
+
+
