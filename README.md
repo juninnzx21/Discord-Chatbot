@@ -1,4 +1,4 @@
-# Bot de controle PolicialAdd commentMore actions
+# Bot de controle Para servidor de discord Roleplay Policial
 Olá, eu sou  [Juninnzx](https://github.com/juninnzx21), desenvolvedor do bot de controle policial para o Discord. Com este bot, é possível ter controle sobre os membros, gerenciando suas ausências, marcando ponto, gerando rankings e muito mais. Iniciei este projeto com o intuito de vendê-lo, ainda estou desenvolvendo e aprimorando o bot para que no futuro ele possa gerenciar tudo sozinho bastando apenas os administradores execultarem os comandos nescessarios para isso.
 
 
